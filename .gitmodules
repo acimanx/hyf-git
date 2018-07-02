@@ -1,6 +1,0 @@
-[submodule "animals-unmeshvrije"]
-	path = animals-unmeshvrije
-	url = ../animals.git
-[submodule "animals-end0620"]
-	path = animals-end0620
-	url = ../../end0620/animals.git
